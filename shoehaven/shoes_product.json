@@ -1,0 +1,272 @@
+[
+    {
+        "Product ID": "1",
+        "Shoe Name": "Elite Runner",
+        "Category": "Featured Shoes",
+        "Price": "98.31",
+        "InStock/Out of stock": "In Stock",
+        "Delivery date": "2024-12-05",
+        "": ""
+    },
+    {
+        "Product ID": "2",
+        "Shoe Name": "SkyWalker",
+        "Category": "Featured Shoes",
+        "Price": "103.12",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-04",
+        "": ""
+    },
+    {
+        "Product ID": "3",
+        "Shoe Name": "Vortex Pro",
+        "Category": "Featured Shoes",
+        "Price": "139.71",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-03",
+        "": ""
+    },
+    {
+        "Product ID": "4",
+        "Shoe Name": "Fusion Drive",
+        "Category": "Featured Shoes",
+        "Price": "131.76",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-10",
+        "": ""
+    },
+    {
+        "Product ID": "5",
+        "Shoe Name": "Power Sprint",
+        "Category": "Featured Shoes",
+        "Price": "71.45",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-08",
+        "": ""
+    },
+    {
+        "Product ID": "6",
+        "Shoe Name": "Thunder Stride",
+        "Category": "Featured Shoes",
+        "Price": "141.02",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-05",
+        "": ""
+    },
+    {
+        "Product ID": "7",
+        "Shoe Name": "Ultra Glide",
+        "Category": "Featured Shoes",
+        "Price": "110.94",
+        "InStock/Out of stock": "In Stock",
+        "Delivery date": "2024-11-30",
+        "": ""
+    },
+    {
+        "Product ID": "8",
+        "Shoe Name": "Aero Boost",
+        "Category": "Featured Shoes",
+        "Price": "161.84",
+        "InStock/Out of stock": "In Stock",
+        "Delivery date": "2024-12-09",
+        "": ""
+    },
+    {
+        "Product ID": "9",
+        "Shoe Name": "Xtreme Speed",
+        "Category": "Featured Shoes",
+        "Price": "198.14",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-13",
+        "": ""
+    },
+    {
+        "Product ID": "10",
+        "Shoe Name": "HyperFlex",
+        "Category": "Featured Shoes",
+        "Price": "152.49",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-04",
+        "": ""
+    },
+    {
+        "Product ID": "11",
+        "Shoe Name": "Fresh Kick",
+        "Category": "New Arrivals",
+        "Price": "103.43",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-02",
+        "": ""
+    },
+    {
+        "Product ID": "12",
+        "Shoe Name": "Urban Lite",
+        "Category": "New Arrivals",
+        "Price": "98.86",
+        "InStock/Out of stock": "In Stock",
+        "Delivery date": "2024-12-11",
+        "": ""
+    },
+    {
+        "Product ID": "13",
+        "Shoe Name": "Bold Step",
+        "Category": "New Arrivals",
+        "Price": "142.88",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-04",
+        "": ""
+    },
+    {
+        "Product ID": "14",
+        "Shoe Name": "Neon Runner",
+        "Category": "New Arrivals",
+        "Price": "68.05",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-13",
+        "": ""
+    },
+    {
+        "Product ID": "15",
+        "Shoe Name": "Eclipse High",
+        "Category": "New Arrivals",
+        "Price": "161.31",
+        "InStock/Out of stock": "In Stock",
+        "Delivery date": "2024-12-03",
+        "": ""
+    },
+    {
+        "Product ID": "16",
+        "Shoe Name": "Vibe Swift",
+        "Category": "New Arrivals",
+        "Price": "60.3",
+        "InStock/Out of stock": "In Stock",
+        "Delivery date": "2024-12-10",
+        "": ""
+    },
+    {
+        "Product ID": "17",
+        "Shoe Name": "Techno Boost",
+        "Category": "New Arrivals",
+        "Price": "86.1",
+        "InStock/Out of stock": "In Stock",
+        "Delivery date": "2024-12-03",
+        "": ""
+    },
+    {
+        "Product ID": "18",
+        "Shoe Name": "Stride Runner",
+        "Category": "New Arrivals",
+        "Price": "87.39",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-07",
+        "": ""
+    },
+    {
+        "Product ID": "19",
+        "Shoe Name": "Force Flash",
+        "Category": "New Arrivals",
+        "Price": "166",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-03",
+        "": ""
+    },
+    {
+        "Product ID": "20",
+        "Shoe Name": "Turbo Glide",
+        "Category": "New Arrivals",
+        "Price": "156.97",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-01",
+        "": ""
+    },
+    {
+        "Product ID": "21",
+        "Shoe Name": "Swift Walk",
+        "Category": "Best Sellers",
+        "Price": "192.09",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-07",
+        "": ""
+    },
+    {
+        "Product ID": "22",
+        "Shoe Name": "Titan Racer",
+        "Category": "Best Sellers",
+        "Price": "94.92",
+        "InStock/Out of stock": "In Stock",
+        "Delivery date": "2024-12-04",
+        "": ""
+    },
+    {
+        "Product ID": "23",
+        "Shoe Name": "Max Propel",
+        "Category": "Best Sellers",
+        "Price": "143.95",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-06",
+        "": ""
+    },
+    {
+        "Product ID": "24",
+        "Shoe Name": "Velocity Plus",
+        "Category": "Best Sellers",
+        "Price": "110.42",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-06",
+        "": ""
+    },
+    {
+        "Product ID": "25",
+        "Shoe Name": "Zoom Flex",
+        "Category": "Best Sellers",
+        "Price": "190.86",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-05",
+        "": ""
+    },
+    {
+        "Product ID": "26",
+        "Shoe Name": "Impact Master",
+        "Category": "Best Sellers",
+        "Price": "197.15",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-09",
+        "": ""
+    },
+    {
+        "Product ID": "27",
+        "Shoe Name": "Dynamic Rush",
+        "Category": "Best Sellers",
+        "Price": "134.64",
+        "InStock/Out of stock": "In Stock",
+        "Delivery date": "2024-12-10",
+        "": ""
+    },
+    {
+        "Product ID": "28",
+        "Shoe Name": "Evo Sprint",
+        "Category": "Best Sellers",
+        "Price": "53.19",
+        "InStock/Out of stock": "In Stock",
+        "Delivery date": "2024-12-05",
+        "": ""
+    },
+    {
+        "Product ID": "29",
+        "Shoe Name": "Charge Max",
+        "Category": "Best Sellers",
+        "Price": "197.27",
+        "InStock/Out of stock": "Out of Stock",
+        "Delivery date": "2024-12-13",
+        "": ""
+    },
+    {
+        "Product ID": "30",
+        "Shoe Name": "Sprint King",
+        "Category": "Best Sellers",
+        "Price": "166.09",
+        "InStock/Out of stock": "In Stock",
+        "Delivery date": "2024-11-30",
+        "": ""
+    }
+]
