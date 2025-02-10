@@ -79,13 +79,13 @@ Follow these steps to set up **ShoeHeaven** on your local machine for both front
 1. **Clone the Repository:**  
 
 ```bash  
-git clone https://github.com/Aditya79813/shoeHeavenFrontend.git  
+git clone https://github.com/Aditya79813/Project-Software-Engineering.git 
 ```  
 
 2. **Navigate to the Project Directory:**  
 
 ```bash  
-cd shoeHeavenFrontend  
+cd frontend  
 ```  
 
 3. **Install Dependencies:**  
@@ -129,13 +129,13 @@ npm run dev
 1. **Clone the Repository:**  
 
 ```bash  
-git clone https://github.com/Aditya79813/shoeHeavenBackend.git  
+git clone https://github.com/Aditya79813/Project-Software-Engineering.git 
 ``` 
 
 2. **Navigate to the Project Directory:**  
 
 ```bash  
-cd shoeHeavenBackend  
+cd backend  
 ```  
 
 3. **Install Dependencies:**  
