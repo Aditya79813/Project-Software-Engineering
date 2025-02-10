@@ -79,7 +79,7 @@ Follow these steps to set up **ShoeHeaven** on your local machine for both front
 1. **Clone the Repository:**  
 
 ```bash  
-git clone https://github.com/shrishail356/shoeHeavenFrontend.git  
+git clone https://github.com/Aditya79813/shoeHeavenFrontend.git  
 ```  
 
 2. **Navigate to the Project Directory:**  
@@ -106,7 +106,7 @@ VITE_BACKEND_URL=
 VITE_REACT_APP_REMOVEBG_KEY=  
 # REMOVE_BG API KEY  
 # Obtain from: https://www.remove.bg/dashboard#api-key  
-# Guide: https://drive.google.com/file/d/1eZkkPG8sw64GF0_ZdkHoKatmwwDLcjkf/view?usp=sharing  
+  
 
 VITE_RAZORPAY_KEY_ID=  
 # Get it from: https://dashboard.razorpay.com/  
@@ -129,7 +129,7 @@ npm run dev
 1. **Clone the Repository:**  
 
 ```bash  
-git clone https://github.com/shrishail356/shoeHeavenBackend.git  
+git clone https://github.com/Aditya79813/shoeHeavenBackend.git  
 ``` 
 
 2. **Navigate to the Project Directory:**  
@@ -161,7 +161,7 @@ SMTP_EMAIL=
 
 SMTP_PASSWORD=  
 # Google Account App Password  
-# Guide: https://drive.google.com/file/d/1MgmAOOJXefFTx-n2uxkO3fZAayKa_RHS/view?usp=sharing  
+
 # Important: Do not delete the generated app password.  
 
 JWT_SECRET=  
